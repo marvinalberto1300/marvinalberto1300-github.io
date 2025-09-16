@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#173657;}
+h1 {
+    font-size: 5.5rem;
+    color:#c7c3be;
+    margin: 0.1rem}
+h2 {
+    font-size:3.0rem;
+    color:#426587;
+    margin: 0.5rem;}
+p {
+    font-size: medium;
+    color:#c7c3be;
+    margin: 1rem;}
+li {color:#c7c3be}
+div p{color: #426587}
+div {
+    width: 250px;
+    height: 50px;
+    background-color: #c7c3be;
+    border: 4px solid #426587;
+    padding: 20px;   
+    margin: 50px;}
+.mycareergoals {
+    font-size: 2.0rem;
+    color:#0b1f34;
+    text-shadow: 16px 16px 20px #426587;}
+.mycoursegoals {
+    font-size: 2.0rem;
+    color:#0b1f34;
+    text-shadow: 16px 16px 20px #426587;
+}
+.myhobbiesandinterests {
+    font-size: 2.0rem;
+    color:#0b1f34;
+    text-shadow: 16px 16px 20px #426587;
+}
+.checkoutmygithub {
+    font-size: 1.0rem;
+    color:#c7c3be;
+}
